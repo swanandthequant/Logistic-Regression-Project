@@ -1,18 +1,43 @@
-## datasets
-I made the dataset Myself using SKlearn.Dataset
+# Logistic Regression Experiments  
 
-## Methodolody
-1. Model Training(I just made this dataset inside the file so no Data CLeaning was Needed and I used Logistic Regression)
-2. Model Evaluation (using,accuracy_score,confusion_matrix,classification_report)
-3. Hyper Parameter Tuning (Using Grid Search CV and Randamized Search CV)
-4. Repeat The Things for Multiclass Classification Problem,Imbalanced Datasets,with ROC and ROC AUC Score
+This project explores **Logistic Regression** with datasets generated using `sklearn.datasets`.  
+The goal was to understand logistic regression better through different setups like binary, multi-class, and imbalanced classification problems.  
 
-## what I learned
-I learned about How the Logistic regression is derived How can we make Predictions By using Logistic Regression
+---
 
-## Project Updates
-I am working on some thimg Big please stay tunned I will try to upload by today
-Thank you everyone
-Swanand patil
+## Dataset  
+- I created the dataset myself using **sklearn.datasets**.  
+- Since the data was generated inside the file, no special cleaning was required.  
+
+---
+
+## Methodology  
+1. Model Training (directly used Logistic Regression as no cleaning step was needed).  
+2. Model Evaluation with:  
+   - accuracy_score  
+   - confusion_matrix  
+   - classification_report  
+3. Hyperparameter Tuning (using Grid Search CV and Randamized Search CV).  
+4. Repeated the same process for:  
+   - Multi-class classification problems  
+   - Imbalanced datasets  
+   - ROC and ROC AUC Score  
+
+---
+
+## What I Learned  
+- How Logistic Regression is derived and why it works for classification.  
+- How predictions are made step by step using logistic regression.  
+- The impact of class imbalance and evaluation beyond just accuracy.  
+
+---
+
+## Project Updates  
+- Currently working on something big, please stay tunned 🙂  
+- I’ll try to upload the update by today.  
+
+Thank you everyone 🙏  
+
+— Swanand Patil  
 
 
