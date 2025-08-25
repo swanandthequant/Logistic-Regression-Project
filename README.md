@@ -33,10 +33,10 @@ The goal was to understand logistic regression better through different setups l
 ---
 
 ## Project Updates  
-- Currently working on something big, please stay tunned 🙂  
+- Currently working on something big, please stay tunned 
 - I’ll try to upload the update by today.  
 
-Thank you everyone 🙏  
+Thank you everyone 
 
 — Swanand Patil  
 
